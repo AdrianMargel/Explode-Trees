@@ -1,4 +1,4 @@
-# Explode-Trees
+# Explode Trees
 Simple generated trees that also explode
 ![trees](https://i.imgur.com/XE2MAAt.png)
 ![exploding trees](https://i.imgur.com/or31OY7.png)
